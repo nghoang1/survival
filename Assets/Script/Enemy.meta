@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Script/Enemy.meta
+guid: 84d899b6e19748d41929d7052ba03cae
+========
+guid: 70ae6f3816f6c3e458df9b56b3c2ee10
+>>>>>>>> f81376dcfcd5eff17c5e9abc608704b938419024:Assets/Scenes/SampleScene.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
